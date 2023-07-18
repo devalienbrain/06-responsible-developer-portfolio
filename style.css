@@ -94,6 +94,10 @@ header section h1 {
   font-weight: 700;
 }
 
+.header-content h5+h1+p {
+  padding-bottom: 24px;
+}
+
 /* HEADER STYLE ENDS */
 
 /* MAIN BODY PARTS STYLE STARTS */
@@ -270,5 +274,9 @@ textarea {
   header {
     text-align: center;
     padding: 16px 16px 32px;
+  }
+
+  .main-section-part1 {
+    padding: 70px 90px;
   }
 }
