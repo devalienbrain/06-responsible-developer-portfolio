@@ -259,18 +259,6 @@ textarea {
     padding: 0;
   }
 
-  .foot-section-items {
-    width: 100%;
-    text-align: center;
-  }
-
-  .footer-all {
-    margin-top: 24px;
-    padding-left: 16px;
-    padding-right: 16px;
-    text-align: center;
-  }
-
   header {
     text-align: center;
     padding: 16px 16px 32px;
@@ -288,5 +276,27 @@ textarea {
 
   .skill-box {
     text-align: center;
+  }
+
+  .foot-section-items {
+    width: 100%;
+    text-align: center;
+  }
+
+  .footer-all {
+    margin-top: 24px;
+    padding-left: 16px;
+    padding-right: 16px;
+    text-align: center;
+  }
+
+  .foot-section {
+    text-align: center;
+
+  }
+
+  .foot-section-items>form input,
+  textarea {
+    width: 100%;
   }
 }
