@@ -277,6 +277,16 @@ textarea {
   }
 
   .main-section-part1 {
-    padding: 70px 90px;
+    padding: 8px;
+    margin: 36px 0;
+  }
+
+  .main-body {
+    display: inline;
+    padding: 32px 48px;
+  }
+
+  .skill-box {
+    text-align: center;
   }
 }
